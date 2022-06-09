@@ -34,290 +34,242 @@
 	  {
 		"id": "6128",
 		"slug": "indigenous-peoples",
-		"title": "Indigenous Peoples",
-		"__typename": "topics_Category"
+		"title": "Indigenous Peoples"		
 	  },
 	  {
 		"id": "6127",
 		"slug": "immigration",
-		"title": "Immigration",
-		"__typename": "topics_Category"
+		"title": "Immigration"		
 	  },
 	  {
 		"id": "6130",
 		"slug": "civic-space-and-activists",
-		"title": "Civic Space and Activists",
-		"__typename": "topics_Category"
+		"title": "Civic Space and Activists"		
 	  },
 	  {
 		"id": "6131",
 		"slug": "gender-violence",
-		"title": "Gender-Based Violence",
-		"__typename": "topics_Category"
+		"title": "Gender-Based Violence"		
 	  },
 	  {
 		"id": "6132",
 		"slug": "racial-justice-2",
-		"title": "Racial Justice",
-		"__typename": "topics_Category"
+		"title": "Racial Justice"		
 	  },
 	  {
 		"id": "6133",
 		"slug": "human-rights-education",
-		"title": "Human Rights Education",
-		"__typename": "topics_Category"
+		"title": "Human Rights Education"		
 	  },
 	  {
 		"id": "6134",
 		"slug": "lgbtq-rights",
-		"title": "LGBTQ+ Rights",
-		"__typename": "topics_Category"
+		"title": "LGBTQ+ Rights"		
 	  },
 	  {
 		"id": "6135",
 		"slug": "workplace-dignity",
-		"title": "Workplace Dignity",
-		"__typename": "topics_Category"
+		"title": "Workplace Dignity"		
 	  },
 	  {
 		"id": "19164",
 		"slug": "workers-rights",
-		"title": "Workers’ Rights",
-		"__typename": "topics_Category"
+		"title": "Workers’ Rights"		
 	  },
 	  {
 		"id": "19165",
 		"slug": "voting-rights-2",
-		"title": "Voting Rights",
-		"__typename": "topics_Category"
+		"title": "Voting Rights"		
 	  },
 	  {
 		"id": "19166",
 		"slug": "journalists-at-risk",
-		"title": "Journalists at Risk",
-		"__typename": "topics_Category"
+		"title": "Journalists at Risk"		
 	  },
 	  {
 		"id": "19167",
 		"slug": "human-trafficking",
-		"title": "Human trafficking",
-		"__typename": "topics_Category"
+		"title": "Human trafficking"		
 	  },
 	  {
 		"id": "19170",
 		"slug": "defend-dissent",
-		"title": "Defend Dissent",
-		"__typename": "topics_Category"
+		"title": "Defend Dissent"		
 	  },
 	  {
 		"id": "19171",
 		"slug": "human-rights-defenders",
-		"title": "Human rights defenders",
-		"__typename": "topics_Category"
+		"title": "Human rights defenders"		
 	  },
 	  {
 		"id": "19172",
 		"slug": "democracy",
-		"title": "Democracy",
-		"__typename": "topics_Category"
+		"title": "Democracy"		
 	  },
 	  {
 		"id": "19173",
 		"slug": "statelessness",
-		"title": "Statelessness",
-		"__typename": "topics_Category"
+		"title": "Statelessness"		
 	  },
 	  {
 		"id": "19176",
 		"slug": "authoritarianism",
-		"title": "Authoritarianism",
-		"__typename": "topics_Category"
+		"title": "Authoritarianism"		
 	  },
 	  {
 		"id": "19177",
 		"slug": "unalienable-rights",
-		"title": "Unalienable rights",
-		"__typename": "topics_Category"
+		"title": "Unalienable rights"		
 	  },
 	  {
 		"id": "25699",
 		"slug": "advocacy",
-		"title": "Advocacy",
-		"__typename": "topics_Category"
+		"title": "Advocacy"		
 	  },
 	  {
 		"id": "25700",
 		"slug": "arbitrary-arrest-and-exile",
-		"title": "Arbitrary Arrest and Exile",
-		"__typename": "topics_Category"
+		"title": "Arbitrary Arrest and Exile"		
 	  },
 	  {
 		"id": "25701",
 		"slug": "asylum",
-		"title": "Asylum",
-		"__typename": "topics_Category"
+		"title": "Asylum"		
 	  },
 	  {
 		"id": "25702",
 		"slug": "bullying",
-		"title": "Bullying",
-		"__typename": "topics_Category"
+		"title": "Bullying"		
 	  },
 	  {
 		"id": "25703",
 		"slug": "business-human-rights",
-		"title": "Business & Human Rights",
-		"__typename": "topics_Category"
+		"title": "Business & Human Rights"		
 	  },
 	  {
 		"id": "25704",
 		"slug": "censorship",
-		"title": "Censorship",
-		"__typename": "topics_Category"
+		"title": "Censorship"		
 	  },
 	  {
 		"id": "25708",
 		"slug": "womens-rights",
-		"title": "Women’s Rights",
-		"__typename": "topics_Category"
+		"title": "Women’s Rights"		
 	  },
 	  {
 		"id": "25710",
 		"slug": "climate",
-		"title": "Climate",
-		"__typename": "topics_Category"
+		"title": "Climate"		
 	  },
 	  {
 		"id": "26343",
 		"slug": "equality",
-		"title": "Equality",
-		"__typename": "topics_Category"
+		"title": "Equality"		
 	  },
 	  {
 		"id": "27137",
 		"slug": "cartel-violence",
-		"title": "Cartel violence",
-		"__typename": "topics_Category"
+		"title": "Cartel violence"		
 	  },
 	  {
 		"id": "29291",
 		"slug": "govt-corruption",
-		"title": "Gov’t Corruption",
-		"__typename": "topics_Category"
+		"title": "Gov’t Corruption"		
 	  },
 	  {
 		"id": "29815",
 		"slug": "criminal-justice",
-		"title": "Criminal Justice",
-		"__typename": "topics_Category"
+		"title": "Criminal Justice"		
 	  },
 	  {
 		"id": "29816",
 		"slug": "mass-incarceration",
-		"title": "Mass Incarceration",
-		"__typename": "topics_Category"
+		"title": "Mass Incarceration"		
 	  },
 	  {
 		"id": "33898",
 		"slug": "restorative-justice",
-		"title": "Restorative Justice",
-		"__typename": "topics_Category"
+		"title": "Restorative Justice"		
 	  },
 	  {
 		"id": "56757",
 		"slug": "civil-rights",
-		"title": "Civil Rights",
-		"__typename": "topics_Category"
+		"title": "Civil Rights"		
 	  },
 	  {
 		"id": "56758",
 		"slug": "justice",
-		"title": "Justice",
-		"__typename": "topics_Category"
+		"title": "Justice"		
 	  },
 	  {
 		"id": "56759",
 		"slug": "religious-freedom",
-		"title": "Religious Freedom",
-		"__typename": "topics_Category"
+		"title": "Religious Freedom"		
 	  },
 	  {
 		"id": "56760",
 		"slug": "peace-conflict",
-		"title": "Peace and Conflict",
-		"__typename": "topics_Category"
+		"title": "Peace and Conflict"		
 	  },
 	  {
 		"id": "56761",
 		"slug": "discrimination",
-		"title": "Discrimination",
-		"__typename": "topics_Category"
+		"title": "Discrimination"		
 	  },
 	  {
 		"id": "56762",
 		"slug": "environment",
-		"title": "Environment",
-		"__typename": "topics_Category"
+		"title": "Environment"		
 	  },
 	  {
 		"id": "56763",
 		"slug": "economic-equality",
-		"title": "Economic Equality",
-		"__typename": "topics_Category"
+		"title": "Economic Equality"		
 	  },
 	  {
 		"id": "56764",
 		"slug": "bail-reform",
-		"title": "Bail Reform",
-		"__typename": "topics_Category"
+		"title": "Bail Reform"		
 	  },
 	  {
 		"id": "56776",
 		"slug": "poverty",
-		"title": "Poverty",
-		"__typename": "topics_Category"
+		"title": "Poverty"		
 	  },
 	  {
 		"id": "95925",
 		"slug": "cj-campaign-only",
-		"title": "CJ Campaign Only",
-		"__typename": "topics_Category"
+		"title": "CJ Campaign Only"		
 	  },
 	  {
 		"id": "125833",
 		"slug": "esg",
-		"title": "ESG Investing",
-		"__typename": "topics_Category"
+		"title": "ESG Investing"		
 	  },
 	  {
 		"id": "126158",
 		"slug": "protecting-human-rights",
-		"title": "Protecting Human Rights",
-		"__typename": "topics_Category"
+		"title": "Protecting Human Rights"		
 	  },
 	  {
 		"id": "158186",
 		"slug": "impunity",
-		"title": "Impunity",
-		"__typename": "topics_Category"
+		"title": "Impunity"		
 	  },
 	  {
 		"id": "158187",
 		"slug": "crimes-against-humanity",
-		"title": "Crimes Against Humanity",
-		"__typename": "topics_Category"
+		"title": "Crimes Against Humanity"		
 	  },
 	  {
 		"id": "228626",
 		"slug": "rule-of-law",
-		"title": "Rule of law",
-		"__typename": "topics_Category"
+		"title": "Rule of law"		
 	  },
 	  {
 		"id": "230680",
 		"slug": "political-participation",
-		"title": "Political participation",
-		"__typename": "topics_Category"
+		"title": "Political participation"		
 	  }
 	],
 	"all_geos": [
@@ -516,5070 +468,3932 @@
 	"press": [
 	  null
 	],
-	"__typename": "singlePressModule_press_BlockType",
+	
 	"className": "press_1",
 	"aggregate_used_topics": [
 	  {
 		"topic": [
 		  {
-			"id": "158187",
-			"__typename": "topics_Category"
+			"id": "158187"			
 		  }
-		],
-		
+		]
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "158187",
-			"__typename": "topics_Category"
+			"id": "158187"			
 		  }
-		],
+		]
 		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19166",
-			"__typename": "topics_Category"
+			"id": "19166"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  },
 		  {
-			"id": "158186",
-			"__typename": "topics_Category"
+			"id": "158186"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19164",
-			"__typename": "topics_Category"
+			"id": "19164"			
 		  },
 		  {
-			"id": "25703",
-			"__typename": "topics_Category"
+			"id": "25703"			
 		  },
 		  {
-			"id": "125833",
-			"__typename": "topics_Category"
+			"id": "125833"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  },
 		  {
-			"id": "29291",
-			"__typename": "topics_Category"
+			"id": "29291"			
 		  },
 		  {
-			"id": "56758",
-			"__typename": "topics_Category"
+			"id": "56758"			
 		  },
 		  {
-			"id": "158186",
-			"__typename": "topics_Category"
+			"id": "158186"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  },
 		  {
-			"id": "25701",
-			"__typename": "topics_Category"
+			"id": "25701"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "228626",
-			"__typename": "topics_Category"
+			"id": "228626"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "228626",
-			"__typename": "topics_Category"
+			"id": "228626"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "25704",
-			"__typename": "topics_Category"
+			"id": "25704"			
 		  },
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56758",
-			"__typename": "topics_Category"
+			"id": "56758"			
 		  },
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  },
 		  {
-			"id": "158187",
-			"__typename": "topics_Category"
+			"id": "158187"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "126158",
-			"__typename": "topics_Category"
+			"id": "126158"			
 		  },
 		  {
-			"id": "228626",
-			"__typename": "topics_Category"
+			"id": "228626"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "126158",
-			"__typename": "topics_Category"
+			"id": "126158"			
 		  },
 		  {
-			"id": "228626",
-			"__typename": "topics_Category"
+			"id": "228626"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  },
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19166",
-			"__typename": "topics_Category"
+			"id": "19166"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19166",
-			"__typename": "topics_Category"
+			"id": "19166"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  },
 		  {
-			"id": "25704",
-			"__typename": "topics_Category"
+			"id": "25704"			
 		  },
 		  {
-			"id": "56760",
-			"__typename": "topics_Category"
+			"id": "56760"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  },
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  },
 		  {
-			"id": "25701",
-			"__typename": "topics_Category"
+			"id": "25701"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  },
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  },
 		  {
-			"id": "56758",
-			"__typename": "topics_Category"
+			"id": "56758"			
 		  },
 		  {
-			"id": "56761",
-			"__typename": "topics_Category"
+			"id": "56761"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "29291",
-			"__typename": "topics_Category"
+			"id": "29291"			
 		  },
 		  {
-			"id": "56758",
-			"__typename": "topics_Category"
+			"id": "56758"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "29291",
-			"__typename": "topics_Category"
+			"id": "29291"			
 		  },
 		  {
-			"id": "56758",
-			"__typename": "topics_Category"
+			"id": "56758"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19166",
-			"__typename": "topics_Category"
+			"id": "19166"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  },
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "158187",
-			"__typename": "topics_Category"
+			"id": "158187"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "25703",
-			"__typename": "topics_Category"
+			"id": "25703"			
 		  },
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "25703",
-			"__typename": "topics_Category"
+			"id": "25703"			
 		  },
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19170",
-			"__typename": "topics_Category"
+			"id": "19170"			
 		  },
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  },
 		  {
-			"id": "25700",
-			"__typename": "topics_Category"
+			"id": "25700"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "19171",
-			"__typename": "topics_Category"
+			"id": "19171"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19172",
-			"__typename": "topics_Category"
+			"id": "19172"			
 		  },
 		  {
-			"id": "126158",
-			"__typename": "topics_Category"
+			"id": "126158"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "126158",
-			"__typename": "topics_Category"
+			"id": "126158"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6128",
-			"__typename": "topics_Category"
+			"id": "6128"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "158186",
-			"__typename": "topics_Category"
+			"id": "158186"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "126158",
-			"__typename": "topics_Category"
+			"id": "126158"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19164",
-			"__typename": "topics_Category"
+			"id": "19164"			
 		  },
 		  {
-			"id": "25703",
-			"__typename": "topics_Category"
+			"id": "25703"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19164",
-			"__typename": "topics_Category"
+			"id": "19164"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29816",
-			"__typename": "topics_Category"
+			"id": "29816"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  },
 		  {
-			"id": "158187",
-			"__typename": "topics_Category"
+			"id": "158187"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19165",
-			"__typename": "topics_Category"
+			"id": "19165"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "19164",
-			"__typename": "topics_Category"
+			"id": "19164"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "56763",
-			"__typename": "topics_Category"
+			"id": "56763"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6134",
-			"__typename": "topics_Category"
+			"id": "6134"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6135",
-			"__typename": "topics_Category"
+			"id": "6135"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "29815",
-			"__typename": "topics_Category"
+			"id": "29815"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6127",
-			"__typename": "topics_Category"
+			"id": "6127"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6131",
-			"__typename": "topics_Category"
+			"id": "6131"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6132",
-			"__typename": "topics_Category"
+			"id": "6132"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"topic": [],
-		
+		"topic": []		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6133",
-			"__typename": "topics_Category"
+			"id": "6133"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"topic": [
 		  {
-			"id": "6130",
-			"__typename": "topics_Category"
+			"id": "6130"			
 		  }
-		],
-		
+		]		
 	  }
 	],
 	"aggregate_used_geos": [
@@ -5593,8 +4407,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5606,8 +4419,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5619,8 +4431,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5628,8 +4439,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5641,8 +4451,7 @@
 			"id": "167098",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5650,8 +4459,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5663,8 +4471,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5676,8 +4483,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5689,8 +4495,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5702,8 +4507,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5711,8 +4515,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5720,8 +4523,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5729,8 +4531,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5742,8 +4543,7 @@
 			"id": "167097",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5755,8 +4555,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5768,8 +4567,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5777,8 +4575,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5786,8 +4583,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5799,8 +4595,7 @@
 			"id": "167096",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5812,8 +4607,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5825,8 +4619,7 @@
 			"id": "217744",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5834,8 +4627,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5847,8 +4639,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5860,8 +4651,7 @@
 			"id": "215764",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5873,8 +4663,7 @@
 			"id": "167094",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5886,8 +4675,7 @@
 			"id": "167094",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5899,8 +4687,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5912,8 +4699,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5925,8 +4711,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5934,8 +4719,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5943,8 +4727,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5952,8 +4735,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5961,8 +4743,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5970,8 +4751,7 @@
 			"id": "167094",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5979,8 +4759,7 @@
 			"id": "167098",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5988,8 +4767,7 @@
 			"id": "167098",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -5997,8 +4775,7 @@
 			"id": "167098",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6006,8 +4783,7 @@
 			"id": "167098",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6015,8 +4791,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6024,21 +4799,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "33748",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -6046,8 +4810,15 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "33748",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -6055,8 +4826,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6064,8 +4834,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6073,8 +4842,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6082,8 +4850,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6091,8 +4858,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6100,8 +4866,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6109,8 +4874,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6118,8 +4882,7 @@
 			"id": "167097",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6127,8 +4890,7 @@
 			"id": "167099",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6136,8 +4898,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6145,8 +4906,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6154,8 +4914,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6163,8 +4922,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6172,8 +4930,7 @@
 			"id": "167095",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6181,8 +4938,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6190,8 +4946,7 @@
 			"id": "167097",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6199,8 +4954,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6208,8 +4962,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6217,8 +4970,7 @@
 			"id": "167097",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6226,8 +4978,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6235,8 +4986,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6244,8 +4994,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6253,8 +5002,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6262,8 +5010,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6271,8 +5018,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6280,8 +5026,7 @@
 			"id": "167100",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6289,8 +5034,7 @@
 			"id": "167100",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6298,8 +5042,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6307,8 +5050,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6316,21 +5058,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6115",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -6338,8 +5069,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6347,8 +5077,15 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6115",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -6356,8 +5093,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6365,8 +5101,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6378,16 +5113,13 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -6395,8 +5127,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6404,8 +5135,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6413,21 +5143,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6112",
-			"__typename": "geo_Category"
-		  },
-		  {
-			"id": "167105",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6439,8 +5155,19 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6112",
+			"__typename": "geo_Category"
+		  },
+		  {
+			"id": "167105",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -6448,8 +5175,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6457,8 +5183,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6466,8 +5191,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6475,8 +5199,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6484,8 +5207,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6497,8 +5219,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6506,8 +5227,7 @@
 			"id": "33742",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6515,8 +5235,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6524,8 +5243,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6533,8 +5251,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6546,8 +5263,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6555,8 +5271,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6564,8 +5279,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6573,8 +5287,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6582,8 +5295,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6591,8 +5303,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6600,8 +5311,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6609,8 +5319,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6618,8 +5327,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6627,8 +5335,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6636,8 +5343,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6645,8 +5351,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6658,8 +5363,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6667,8 +5371,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6676,8 +5379,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6685,8 +5387,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6694,8 +5395,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6707,8 +5407,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6716,8 +5415,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6725,8 +5423,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6734,8 +5431,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6747,8 +5443,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6756,8 +5451,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6765,8 +5459,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6774,8 +5467,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6783,8 +5475,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6792,8 +5483,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6801,8 +5491,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6810,8 +5499,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6819,8 +5507,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6828,8 +5515,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6837,8 +5523,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6846,8 +5531,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6855,8 +5539,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6864,8 +5547,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6873,8 +5555,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6882,8 +5563,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6891,8 +5571,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6900,8 +5579,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6909,8 +5587,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6918,8 +5595,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6927,8 +5603,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6936,8 +5611,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6945,8 +5619,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6954,8 +5627,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6963,8 +5635,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6972,8 +5643,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6981,8 +5651,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6990,8 +5659,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -6999,8 +5667,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7008,8 +5675,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7017,8 +5683,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7026,8 +5691,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7035,8 +5699,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7044,8 +5707,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7053,8 +5715,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7062,8 +5723,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7071,8 +5731,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7080,8 +5739,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7089,8 +5747,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7098,8 +5755,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7107,8 +5763,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7116,8 +5771,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7125,8 +5779,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7134,8 +5787,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7143,8 +5795,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7152,8 +5803,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7161,8 +5811,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7170,8 +5819,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7179,8 +5827,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7188,8 +5835,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7197,8 +5843,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7210,8 +5855,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7219,8 +5863,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7228,8 +5871,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7237,8 +5879,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7246,8 +5887,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7255,8 +5895,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7264,8 +5903,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7273,8 +5911,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7282,8 +5919,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7291,8 +5927,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7300,8 +5935,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7309,8 +5943,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7318,12 +5951,10 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -7331,8 +5962,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7340,8 +5970,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7349,8 +5978,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7362,8 +5990,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7371,8 +5998,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7380,8 +6006,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7389,8 +6014,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7398,8 +6022,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7407,8 +6030,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7416,8 +6038,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7425,8 +6046,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7434,8 +6054,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7443,8 +6062,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7452,8 +6070,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7465,8 +6082,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7474,8 +6090,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7483,8 +6098,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7492,8 +6106,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7501,8 +6114,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7510,8 +6122,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7519,8 +6130,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7528,8 +6138,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7537,8 +6146,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7550,8 +6158,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7559,8 +6166,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7572,8 +6178,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7581,8 +6186,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7590,8 +6194,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7599,8 +6202,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7608,8 +6210,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7617,8 +6218,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7626,8 +6226,7 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7635,8 +6234,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7644,8 +6242,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7653,8 +6250,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7662,8 +6258,7 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7671,8 +6266,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7680,8 +6274,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7689,8 +6282,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7698,8 +6290,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7707,12 +6298,10 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -7720,8 +6309,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7729,8 +6317,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7738,8 +6325,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7747,8 +6333,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7756,8 +6341,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7765,8 +6349,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7774,8 +6357,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7783,12 +6365,10 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -7796,8 +6376,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7805,8 +6384,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7814,8 +6392,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7823,8 +6400,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7832,8 +6408,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7841,8 +6416,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7850,8 +6424,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7859,8 +6432,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7868,8 +6440,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7877,8 +6448,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7890,8 +6460,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7899,8 +6468,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7908,8 +6476,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7917,8 +6484,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7930,8 +6496,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7939,8 +6504,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7948,8 +6512,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7957,8 +6520,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7966,8 +6528,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7975,8 +6536,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -7984,12 +6544,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -7997,8 +6555,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8006,8 +6563,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8015,8 +6571,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8024,8 +6579,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8033,8 +6587,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8042,8 +6595,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8051,8 +6603,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8060,8 +6611,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8069,8 +6619,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8078,8 +6627,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8087,8 +6635,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8096,8 +6643,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8105,8 +6651,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8114,8 +6659,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8123,8 +6667,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8132,8 +6675,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8141,8 +6683,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8150,8 +6691,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8159,8 +6699,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8168,8 +6707,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8177,8 +6715,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8186,8 +6723,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8195,8 +6731,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8204,8 +6739,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8213,8 +6747,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8222,8 +6755,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8231,8 +6763,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8240,8 +6771,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8249,8 +6779,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8258,8 +6787,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8267,8 +6795,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8280,8 +6807,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8289,8 +6815,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8298,8 +6823,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8307,8 +6831,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8316,8 +6839,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8325,8 +6847,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8334,8 +6855,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8343,8 +6863,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8352,8 +6871,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8361,8 +6879,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8370,8 +6887,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8379,12 +6895,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8392,8 +6906,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8401,8 +6914,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8410,12 +6922,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8423,8 +6933,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8436,12 +6945,10 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8449,8 +6956,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8458,8 +6964,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8467,8 +6972,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8476,8 +6980,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8485,8 +6988,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8498,8 +7000,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8507,8 +7008,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8516,8 +7016,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8525,8 +7024,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8534,12 +7032,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8547,8 +7043,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8556,8 +7051,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8565,8 +7059,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8574,8 +7067,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8587,12 +7079,10 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8604,8 +7094,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8613,8 +7102,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8622,8 +7110,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8631,8 +7118,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8640,8 +7126,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8649,8 +7134,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8658,8 +7142,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8667,8 +7150,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8676,8 +7158,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8685,8 +7166,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8694,8 +7174,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8703,8 +7182,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8712,8 +7190,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8721,8 +7198,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8730,8 +7206,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8739,8 +7214,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8752,8 +7226,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8761,8 +7234,7 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8774,8 +7246,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8787,8 +7258,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8796,8 +7266,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8805,8 +7274,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8814,8 +7282,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8823,8 +7290,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8836,12 +7302,10 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8849,8 +7313,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8858,8 +7321,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8867,12 +7329,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8880,8 +7340,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8889,8 +7348,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8898,8 +7356,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8907,8 +7364,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8916,16 +7372,13 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8933,8 +7386,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8942,8 +7394,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8951,8 +7402,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8960,8 +7410,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8969,8 +7418,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -8978,12 +7426,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -8995,8 +7441,7 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9004,8 +7449,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9017,12 +7461,10 @@
 			"id": "167102",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9030,8 +7472,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9039,8 +7480,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9048,8 +7488,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9057,8 +7496,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9066,8 +7504,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9075,8 +7512,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9084,8 +7520,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9093,8 +7528,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9102,8 +7536,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9111,16 +7544,13 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9128,8 +7558,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9137,21 +7566,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6114",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9159,8 +7577,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9168,8 +7585,15 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6114",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -9177,8 +7601,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9186,8 +7609,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9199,8 +7621,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9208,8 +7629,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9217,8 +7637,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9226,8 +7645,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9235,8 +7653,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9244,8 +7661,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9253,8 +7669,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9262,8 +7677,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9275,8 +7689,7 @@
 			"id": "167104",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9284,8 +7697,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9293,8 +7705,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9302,8 +7713,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9311,8 +7721,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9320,12 +7729,10 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9333,8 +7740,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9342,8 +7748,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9351,8 +7756,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9360,8 +7764,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9369,8 +7772,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9378,8 +7780,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9387,8 +7788,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9396,8 +7796,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9405,8 +7804,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9414,8 +7812,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9423,8 +7820,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9432,8 +7828,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9441,8 +7836,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9450,8 +7844,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9459,8 +7852,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9468,8 +7860,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9477,8 +7868,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9486,8 +7876,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9495,8 +7884,7 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9504,8 +7892,7 @@
 			"id": "33743",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9513,8 +7900,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9522,8 +7908,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9531,8 +7916,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9540,21 +7924,10 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6115",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9562,8 +7935,15 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6115",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -9571,8 +7951,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9580,12 +7959,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9593,8 +7970,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9602,21 +7978,10 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6115",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9624,8 +7989,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9633,8 +7997,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9642,8 +8005,15 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6115",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -9655,8 +8025,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9664,8 +8033,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9673,8 +8041,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9682,8 +8049,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9691,8 +8057,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9700,8 +8065,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9709,8 +8073,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9718,8 +8081,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9727,8 +8089,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9736,12 +8097,10 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9749,8 +8108,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9758,8 +8116,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9767,8 +8124,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9776,8 +8132,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9785,8 +8140,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9798,8 +8152,7 @@
 			"id": "167057",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9807,8 +8160,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9816,8 +8168,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9825,8 +8176,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9834,8 +8184,7 @@
 			"id": "33747",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9843,8 +8192,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9856,8 +8204,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9865,8 +8212,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9874,8 +8220,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9883,8 +8228,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9892,8 +8236,7 @@
 			"id": "167103",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9901,12 +8244,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9914,8 +8255,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9923,8 +8263,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9932,8 +8271,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9941,8 +8279,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9950,8 +8287,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9959,12 +8295,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -9972,8 +8306,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9981,8 +8314,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9990,8 +8322,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -9999,12 +8330,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -10012,8 +8341,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10021,8 +8349,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10030,8 +8357,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10039,8 +8365,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10048,8 +8373,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10057,8 +8381,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10066,8 +8389,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10075,8 +8397,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10084,8 +8405,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10093,8 +8413,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10102,8 +8421,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10111,8 +8429,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10120,8 +8437,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10129,8 +8445,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10142,8 +8457,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10151,8 +8465,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10160,12 +8473,10 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -10173,8 +8484,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10182,8 +8492,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10191,8 +8500,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10200,8 +8508,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10213,8 +8520,7 @@
 			"id": "167057",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10222,8 +8528,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10235,8 +8540,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10244,8 +8548,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10253,8 +8556,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10262,8 +8564,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10275,8 +8576,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10288,8 +8588,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10297,8 +8596,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10306,16 +8604,13 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -10323,8 +8618,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10332,8 +8626,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10345,8 +8638,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10354,8 +8646,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10363,8 +8654,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10372,8 +8662,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10381,8 +8670,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10390,8 +8678,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10399,8 +8686,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10408,8 +8694,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10417,8 +8702,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10426,8 +8710,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10435,8 +8718,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10444,8 +8726,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10457,8 +8738,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10470,8 +8750,7 @@
 			"id": "33750",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10479,8 +8758,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10488,21 +8766,10 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
-	  },
-	  {
-		"geo": [
-		  {
-			"id": "6115",
-			"__typename": "geo_Category"
-		  }
-		],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -10510,12 +8777,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
-	  },
-	  {
-		"geo": [],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10523,8 +8785,18 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
+	  },
+	  {
+		"geo": []		
+	  },
+	  {
+		"geo": [
+		  {
+			"id": "6115",
+			"__typename": "geo_Category"
+		  }
+		]		
 	  },
 	  {
 		"geo": [
@@ -10532,8 +8804,7 @@
 			"id": "33751",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10541,8 +8812,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10550,8 +8820,7 @@
 			"id": "33748",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10559,8 +8828,7 @@
 			"id": "6113",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10568,8 +8836,7 @@
 			"id": "6112",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10577,8 +8844,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10586,8 +8852,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10595,8 +8860,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10608,8 +8872,7 @@
 			"id": "167105",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10617,8 +8880,7 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10626,8 +8888,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10635,16 +8896,13 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  },
 	  {
 		"geo": [
@@ -10652,8 +8910,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10661,8 +8918,7 @@
 			"id": "6115",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10670,8 +8926,7 @@
 			"id": "6114",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"geo": [
@@ -10679,12 +8934,10 @@
 			"id": "33745",
 			"__typename": "geo_Category"
 		  }
-		],
-		
+		]		
 	  },
 	  {
-		"geo": [],
-		
+		"geo": []		
 	  }
 	],
 	"aggregate_totalCount": 558,
@@ -10717,11 +8970,9 @@
 		  {
 			"id": "56760",
 			"slug": "peace-conflict",
-			"title": "Peace and Conflict",
-			"__typename": "topics_Category"
+			"title": "Peace and Conflict"			
 		  }
-		],
-		
+		]		
 	  }
 	],
 	"aggregate": [
@@ -10748,11 +8999,9 @@
 		  {
 			"id": "158187",
 			"slug": "crimes-against-humanity",
-			"title": "Crimes Against Humanity",
-			"__typename": "topics_Category"
+			"title": "Crimes Against Humanity"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "241802",
@@ -10777,11 +9026,9 @@
 		  {
 			"id": "158187",
 			"slug": "crimes-against-humanity",
-			"title": "Crimes Against Humanity",
-			"__typename": "topics_Category"
+			"title": "Crimes Against Humanity"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "236616",
@@ -10812,29 +9059,24 @@
 		  {
 			"id": "19166",
 			"slug": "journalists-at-risk",
-			"title": "Journalists at Risk",
-			"__typename": "topics_Category"
+			"title": "Journalists at Risk"			
 		  },
 		  {
 			"id": "19171",
 			"slug": "human-rights-defenders",
-			"title": "Human rights defenders",
-			"__typename": "topics_Category"
+			"title": "Human rights defenders"			
 		  },
 		  {
 			"id": "25700",
 			"slug": "arbitrary-arrest-and-exile",
-			"title": "Arbitrary Arrest and Exile",
-			"__typename": "topics_Category"
+			"title": "Arbitrary Arrest and Exile"			
 		  },
 		  {
 			"id": "158186",
 			"slug": "impunity",
-			"title": "Impunity",
-			"__typename": "topics_Category"
+			"title": "Impunity"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "234866",
@@ -10870,41 +9112,34 @@
 		  {
 			"id": "6130",
 			"slug": "civic-space-and-activists",
-			"title": "Civic Space and Activists",
-			"__typename": "topics_Category"
+			"title": "Civic Space and Activists"			
 		  },
 		  {
 			"id": "19171",
 			"slug": "human-rights-defenders",
-			"title": "Human rights defenders",
-			"__typename": "topics_Category"
+			"title": "Human rights defenders"			
 		  },
 		  {
 			"id": "25700",
 			"slug": "arbitrary-arrest-and-exile",
-			"title": "Arbitrary Arrest and Exile",
-			"__typename": "topics_Category"
+			"title": "Arbitrary Arrest and Exile"			
 		  },
 		  {
 			"id": "29291",
 			"slug": "govt-corruption",
-			"title": "Gov’t Corruption",
-			"__typename": "topics_Category"
+			"title": "Gov’t Corruption"			
 		  },
 		  {
 			"id": "56758",
 			"slug": "justice",
-			"title": "Justice",
-			"__typename": "topics_Category"
+			"title": "Justice"			
 		  },
 		  {
 			"id": "158186",
 			"slug": "impunity",
-			"title": "Impunity",
-			"__typename": "topics_Category"
+			"title": "Impunity"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "233932",
@@ -10934,17 +9169,14 @@
 		  {
 			"id": "6127",
 			"slug": "immigration",
-			"title": "Immigration",
-			"__typename": "topics_Category"
+			"title": "Immigration"			
 		  },
 		  {
 			"id": "25701",
 			"slug": "asylum",
-			"title": "Asylum",
-			"__typename": "topics_Category"
+			"title": "Asylum"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "228655",
@@ -10974,17 +9206,14 @@
 		  {
 			"id": "19172",
 			"slug": "democracy",
-			"title": "Democracy",
-			"__typename": "topics_Category"
+			"title": "Democracy"			
 		  },
 		  {
 			"id": "228626",
 			"slug": "rule-of-law",
-			"title": "Rule of law",
-			"__typename": "topics_Category"
+			"title": "Rule of law"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "228582",
@@ -11014,17 +9243,14 @@
 		  {
 			"id": "19172",
 			"slug": "democracy",
-			"title": "Democracy",
-			"__typename": "topics_Category"
+			"title": "Democracy"			
 		  },
 		  {
 			"id": "228626",
 			"slug": "rule-of-law",
-			"title": "Rule of law",
-			"__typename": "topics_Category"
+			"title": "Rule of law"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "225708",
@@ -11054,17 +9280,14 @@
 		  {
 			"id": "6130",
 			"slug": "civic-space-and-activists",
-			"title": "Civic Space and Activists",
-			"__typename": "topics_Category"
+			"title": "Civic Space and Activists"			
 		  },
 		  {
 			"id": "56760",
 			"slug": "peace-conflict",
-			"title": "Peace and Conflict",
-			"__typename": "topics_Category"
+			"title": "Peace and Conflict"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "225763",
@@ -11089,23 +9312,19 @@
 		  {
 			"id": "19172",
 			"slug": "democracy",
-			"title": "Democracy",
-			"__typename": "topics_Category"
+			"title": "Democracy"			
 		  },
 		  {
 			"id": "25704",
 			"slug": "censorship",
-			"title": "Censorship",
-			"__typename": "topics_Category"
+			"title": "Censorship"			
 		  },
 		  {
 			"id": "56760",
 			"slug": "peace-conflict",
-			"title": "Peace and Conflict",
-			"__typename": "topics_Category"
+			"title": "Peace and Conflict"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "223559",
@@ -11135,23 +9354,19 @@
 		  {
 			"id": "56758",
 			"slug": "justice",
-			"title": "Justice",
-			"__typename": "topics_Category"
+			"title": "Justice"			
 		  },
 		  {
 			"id": "56760",
 			"slug": "peace-conflict",
-			"title": "Peace and Conflict",
-			"__typename": "topics_Category"
+			"title": "Peace and Conflict"			
 		  },
 		  {
 			"id": "158187",
 			"slug": "crimes-against-humanity",
-			"title": "Crimes Against Humanity",
-			"__typename": "topics_Category"
+			"title": "Crimes Against Humanity"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "223751",
@@ -11181,11 +9396,9 @@
 		  {
 			"id": "56760",
 			"slug": "peace-conflict",
-			"title": "Peace and Conflict",
-			"__typename": "topics_Category"
+			"title": "Peace and Conflict"			
 		  }
-		],
-		
+		]		
 	  },
 	  {
 		"id": "236329",
@@ -11221,23 +9434,19 @@
 		  {
 			"id": "19164",
 			"slug": "workers-rights",
-			"title": "Workers’ Rights",
-			"__typename": "topics_Category"
+			"title": "Workers’ Rights"			
 		  },
 		  {
 			"id": "25703",
 			"slug": "business-human-rights",
-			"title": "Business & Human Rights",
-			"__typename": "topics_Category"
+			"title": "Business & Human Rights"			
 		  },
 		  {
 			"id": "125833",
 			"slug": "esg",
-			"title": "ESG Investing",
-			"__typename": "topics_Category"
+			"title": "ESG Investing"			
 		  }
-		],
-		
+		]		
 	  }
 	],
 	"layout": "bp4",
